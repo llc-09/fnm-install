@@ -39,7 +39,5 @@ cargo install fnm
 code $PROFILE
 
 将下面语句添加到profile文件末尾，保存后即可
-
 fnm env --use-on-cd | Out-String | Invoke-Expression
- 
 至此fnm安装完成，使用 fnm -help 获取相关命令
