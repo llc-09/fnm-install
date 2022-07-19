@@ -10,6 +10,7 @@ npm get registry
 npm config set registry http://registry.npm.taobao.org
 //全局切换官方镜像源
 npm config set registry http://www.npmjs.org
+
 ##安装fnm管理工具##
 1.安装choco，用来安装fnm，以管理员身份运行cmd或者powershell
 
